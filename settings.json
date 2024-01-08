@@ -1,0 +1,57 @@
+{
+    "workbench.startupEditor": "none",
+    "workbench.editorAssociations": {
+        "*.sh": "default"
+    },
+    "cmake.configureOnOpen": true,
+    "git.ignoreMissingGitWarning": true,
+    "security.workspace.trust.untrustedFiles": "open",
+    "editor.bracketPairColorization.independentColorPoolPerBracketType": true,
+    "remote.SSH.useLocalServer": true,
+    "remote.SSH.suppressWindowsSshWarning": true,
+    "remote.SSH.configFile": "C:\\Users\\Administrator\\.ssh\\config",
+    "window.commandCenter": true,
+    "editor.fontSize": 16,
+    "highlightwords.colors": [
+        {"dark": "yellow" },
+        {"dark": "Cyan" },
+        {"dark": "Pink" },
+        {"dark": "LightGreen" },
+        {"dark": "LightSteelBlue" },
+        {"dark": "Plum" },
+        {"dark": "Orange" },
+        {"dark": "Bisque1" },
+        {"dark": "LemonChiffon1" },
+        {"dark": "MistyRose1" },
+        {"dark": "PaleVioletRed1" },
+        {"dark": "magenta" },
+        {"dark": "brown" },
+        {"dark": "gold" },
+        {"dark": "violet" },
+        {"dark": "white" },
+        {"dark": "bronze" },
+        {"dark": "Aqua" },
+        {"dark": "Beige" },
+        {"dark": "grey" }
+        ],
+    "highlightwords.box": {
+        "light": true,
+        "dark": false
+    },
+    "highlightwords.defaultMode": 1,
+    "explorer.confirmDelete": false,
+    "editor.minimap.enabled": false,
+    "cmake.options.statusBarVisibility": "visible",
+    "cmake.showOptionsMovedNotification": false,
+    "editor.codeActionsOnSave": {
+    
+    },
+    //"git.path": "D:/tools/PortableGit/git-cmd.exe"
+    //settings for search exclude
+    "search.exclude": {
+        "**/node_modules": true, 
+        "**/bower_components": true,
+        "/*.code-search": true,
+        "**/dist": true, 
+    },
+}
